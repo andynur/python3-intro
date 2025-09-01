@@ -6,3 +6,7 @@ print("BELAJAR DASAR GIT")
 # git add app.py
 # git commit -m "add app file"
 # git push -u origin main
+# --- cara tambah sekali banyak file ---
+# git add .
+# git commit -m "add materi belajar api"
+# git push -u origin main
